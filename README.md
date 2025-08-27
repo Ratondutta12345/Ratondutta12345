@@ -1,12 +1,12 @@
 # Hi 👋, I'm Raton Dutta  
 
-🎓 3rd Year B.Tech CSE Student | 💻 Python Enthusiast | 🚀 Aspiring Developer  
+🎓 4th Year B.Tech CSE Student | 💻 Java Enthusiast | 🚀 Aspiring Developer  
 
 ---
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Web Development & Backend with Prisma**
-- 👨‍💻 Working on projects like **Tournament App** and **Shopping App**
+- 👨‍💻 Working on projects like **Finance App** and **Shopping App**
 - 📫 Reach me at: **ratondutta444@gmail.com**
 - ⚡ Fun fact: I love solving coding problems and building apps!
 
@@ -26,5 +26,5 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/raton-dutta-944370354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://your-portfolio-link.com)  

@@ -8,9 +8,9 @@ A 4th Year B.Tech CSE Student 🎓 | Java Enthusiast 💻 | Aspiring Developer �
 ---
 
 ## 🛠️ Skills
-- **Languages:** Python, JavaScript  
+- **Languages:** java, Python, JavaScript  
 - **Frontend:** HTML, CSS, Tailwind CSS  
-- **Backend:** Node.js, Prisma  
+- **Backend:** Node.js, Prisma ,SQL
 - **Tools:** Git, GitHub, VS Code 
 ---
 

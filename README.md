@@ -1,8 +1,6 @@
 ### Hi there, I'm Raton👋  
 A 4th Year B.Tech CSE Student 🎓 | Java Enthusiast 💻 | Aspiring Developer 🚀  
 
-- 👨‍💻 Working on projects like **Finance App** and **Shopping App**  
-- 🌱 Currently learning **Web Development & Backend with Prisma**  
 - 📚 I believe in: *"Keep building, keep improving, keep learning."*  
 - ⚡ Fun fact: I love solving coding problems and building apps!  
 - 📫 Reach me at: [Facebook](https://www.facebook.com/share/1CQAbXHebY/) - or via **Email**  

@@ -7,12 +7,7 @@ A 4th Year B.Tech CSE Student 🎓 | Java Enthusiast 💻 | Aspiring Developer �
 
 ---
 
-## 🛠️ Skills
-- **Languages:** java, Python, JavaScript  
-- **Frontend:** HTML, CSS, Tailwind CSS  
-- **Backend:** Node.js, Prisma ,SQL
-- **Tools:** Git, GitHub, VS Code 
----
+
 
 ![Raton's github stats](https://github-readme-stats.vercel.app/api?username=Ratondutta12345&theme=tokyonight&show_icons=true&hide=["issues"])  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratondutta12345&theme=tokyonight&layout=compact)  
@@ -52,11 +47,10 @@ A 4th Year B.Tech CSE Student 🎓 | Java Enthusiast 💻 | Aspiring Developer �
 
 ### **🔤 Programming Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### **🌐 Web Technologies**
 
@@ -71,13 +65,12 @@ A 4th Year B.Tech CSE Student 🎓 | Java Enthusiast 💻 | Aspiring Developer �
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### **🗄️ Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **🛠️ Tools & Platforms**
 

@@ -21,19 +21,30 @@ A 4th Year B.Tech CSE Student 🎓 | Java Enthusiast 💻 | Aspiring Developer �
 
 ---
 
-<h3> 🤝🏻 Connect with Me </h3>  
+
+
+## 🌐 **Connect With Me**
+
+<div align="center">
 
 <p align="center">
+  <a href="https://instagram.com/raton_dutta_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://www.linkedin.com/in/raton-dutta-944370354/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raton%20Dutta-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/share/1CQAbXHebY/">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Raton%20Dutta-blue?style=flat-square&logo=facebook">
+  <a href="https://x.com/Raton Dutta">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:ratondutta444@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-ratondutta444@gmail.com-blue?style=flat-square&logo=gmail">
+  <a href="https://leetcode.com/u/ratondutta12345/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://portfolio-e7t2.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+</div>
 
 ## 💻 **Tech Arsenal**
 

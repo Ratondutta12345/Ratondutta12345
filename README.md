@@ -8,12 +8,18 @@ A 4th Year B.Tech CSE Student 🎓 | Java Enthusiast 💻 | Aspiring Developer �
 ---
 
 
+<div align="center">
 
-![Raton's github stats](https://github-readme-stats.vercel.app/api?username=Ratondutta12345&theme=tokyonight&show_icons=true&hide=["issues"])  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratondutta12345&theme=tokyonight&layout=compact)  
+### 📊 My GitHub Metrics
 
-![](https://komarev.com/ghpvc/?username=Ratondutta12345)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ratondutta12345&theme=tokyonight&show_icons=true&hide=issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratondutta12345&theme=tokyonight&layout=compact" />
 
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Ratondutta12345&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
 ---
 
 
